@@ -2,15 +2,11 @@
 
 **WatchTank** is an IoT-based solution that enables users to monitor the water level in their tank using an Android app. The system uses Bluetooth connectivity for seamless real-time communication, helping users optimize water usage and avoid overflows or shortages.  
 
----
-
 ## Features  
 
 - **Real-Time Water Level Monitoring**: Access accurate tank water level readings on your Android app.  
 - **Bluetooth Connectivity**: Effortlessly connect the monitoring system to your phone via Bluetooth.  
 - **User-Friendly Android App**: Simple and intuitive interface for data visualization and configuration.  
-
----
 
 ## Components Used  
 
@@ -22,8 +18,6 @@
 ### Software  
 - **Embedded Code**: Firmware written in C++ (Arduino IDE) to control the hardware and transmit data.  
 - **Android App**: Custom-designed app for water level monitoring. Built with **Java/Kotlin** using **Android Studio**.  
-
----
 
 ## How It Works  
 
@@ -37,8 +31,6 @@
 3. **App Connectivity**:  
    - Users pair their phone with the system via Bluetooth.  
    - The Android app receives the data and displays it on an intuitive interface.  
-
----
 
 ## Setup Guide  
 
@@ -63,15 +55,11 @@
 3. Open the app, select the device from the list of available Bluetooth devices, and connect.  
 4. View real-time water level data and configure thresholds as needed.  
 
----
-
 ## Future Improvements  
 
 - Add support for additional connectivity options like Wi-Fi or GSM for remote monitoring.  
 - Incorporate data logging and visualization for historical usage trends.  
 - Extend compatibility with iOS and other platforms.  
-
----
 
 ## License  
 
